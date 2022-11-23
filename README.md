@@ -1,0 +1,2 @@
+# mangastudioAPI
+Manga Studio API
