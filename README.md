@@ -1,2 +1,2 @@
-# mangastudioAPI
-Manga Studio API
+# ToonSpace3D
+ToonSpace 3D
