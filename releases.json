@@ -1,4 +1,6 @@
 {
-"1.1.0": "This is 1.1.0",
+"1.1.0": {
+        "updater.js":"console.log('Hello')"       
+ },
   "1.2.0": "This is 1.2.0"
 }
