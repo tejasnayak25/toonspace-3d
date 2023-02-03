@@ -1,6 +1,23 @@
-[{
-"name":"Tejas"
-},
+[
  {
-  "name":"Navya"
- }]
+   "user":"tjs-media-corner",
+   "game":"tree-3d-model-rpg-version",
+   "cover":"https://img.itch.zone/aW1nLzg1NjUyMjgucG5n/original/UJeL4y.png",
+   "type":"background",
+   "price":"10"
+ },
+ {
+   "user":"tjs-media-corner",
+   "game":"tree-3d-model-rpg-version",
+   "cover":"https://img.itch.zone/aW1nLzg1NjUyMjgucG5n/original/UJeL4y.png",
+   "type":"background",
+   "price":"20"
+ },
+ {
+   "user":"tjs-media-corner",
+   "game":"magicstone-3d-model",
+   "cover":"https://img.itch.zone/aW1nLzg1MTgyODMucG5n/original/TvOiVj.png",
+   "type":"prop",
+   "price":"10"
+ }
+]
