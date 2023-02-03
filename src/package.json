@@ -1,0 +1,62 @@
+{
+    "name": "toonspace_3d",
+    "version": "1.1.0",
+    "main": "main.js",
+    "author": "Tejas Nayak",
+    "license": "license.txt",
+    "description": "ToonSpace 3D",
+    "devDependencies": {
+        "dom-to-image": "^2.6.0",
+        "electron": "^21.2.0",
+        "electron-builder": "^23.6.0",
+        "ipc": "^0.0.1",
+        "mysql": "^2.18.1",
+        "node-int64": "^0.4.0"
+    },
+    "scripts": {
+        "start": "electron .",
+        "dev": "npm run development",
+        "dist": "electron-builder"
+    },
+    "dependencies": {
+        "@electron/asar": "^3.2.3",
+        "@electron/remote": "^2.0.8",
+        "dat.gui": "^0.7.9",
+        "decompress-zip": "^0.3.3",
+        "electron-license": "^3.0.0",
+        "fstream": "^1.0.12",
+        "graceful-fs": "^4.2.2",
+        "node-fetch": "^3.3.0",
+        "node-stream-zip": "^1.15.0",
+        "three": "^0.147.0",
+        "unsplash-js": "^7.0.15",
+        "unzipper": "^0.10.11",
+        "yauzl": "^2.10.0"
+    },
+    "build": {
+        "appId": "com.toonspace3d.app",
+        "copyright": "Copyright © year Tejas Nayak",
+        "productName": "ToonSpace 3D",
+        "icon": "build/logo.png",
+        "target": "NSIS",
+        "extraFiles": [
+            "license.txt"
+        ],
+        "directories": {
+            "output": "build"
+        },
+        "nsis": {
+            "allowToChangeInstallationDirectory": true,
+            "oneClick": false,
+            "perMachine": false,
+            "license": "license.txt"
+        },
+        "fileAssociations": [
+            {
+                "ext": "ts3d",
+                "name": "ToonSpace 3D File",
+                "role": "Editor"
+            }
+        ]
+    }
+}
