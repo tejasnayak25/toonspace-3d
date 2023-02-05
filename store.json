@@ -1,30 +1,9 @@
 [
  {
-   "user":"tjs-media-corner",
-   "game":"tree-3d-model-rpg-version",
-   "cover":"https://img.itch.zone/aW1nLzg1NjUyMjgucG5n/original/UJeL4y.png",
-   "type":"background",
-   "price":"10"
- },
- {
-   "user":"tjs-media-corner",
-   "game":"tree-3d-model-rpg-version",
-   "cover":"https://img.itch.zone/aW1nLzg1NjUyMjgucG5n/original/UJeL4y.png",
-   "type":"background",
-   "price":"20"
- },
- {
-   "user":"tjs-media-corner",
-   "game":"magicstone-3d-model",
-   "cover":"https://img.itch.zone/aW1nLzg1MTgyODMucG5n/original/TvOiVj.png",
-   "type":"prop",
-   "price":"10"
- },
- {
-   "user":"tjs-media-corner",
-   "game":"magicstone-3d-model",
-   "cover":"https://img.itch.zone/aW1nLzg1MTgyODMucG5n/original/TvOiVj.png",
-   "type":"general",
-   "price":"30"
+   "user":"toonspace3d",
+   "game":"ts3d-beginners-pack",
+   "cover":"https://img.itch.zone/aW1hZ2UvMTkxMDA3MC8xMTIyNzAxOS5wbmc=/794x1000/oDy2HZ.png",
+   "type":"character",
+   "price":"0"
  }
 ]
