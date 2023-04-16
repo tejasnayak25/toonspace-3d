@@ -9,7 +9,7 @@ Assets are available in our store :)
 https://tjs-media-corner.itch.io/toonspace-3d
 
 # Screenshots
-<span style="display:flex;flex-direction:row;overflow-x:scroll;max-height:410px;">
+<span>
   <img src="https://img.itch.zone/aW1hZ2UvMjAxMjE2OC8xMTgzMTY5NC5wbmc=/794x1000/QajoAa.png">
   <img src="https://img.itch.zone/aW1hZ2UvMjAxMjE2OC8xMTgzMTY5OC5wbmc=/794x1000/7C9zr%2B.png">
   <img src="https://img.itch.zone/aW1hZ2UvMjAxMjE2OC8xMTg3OTEzMy5wbmc=/794x1000/rq3Cad.png">
